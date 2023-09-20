@@ -1,13 +1,13 @@
 ## About Dataset 
-Size : 363 MB
-Link : https://www.kaggle.com/datasets/puneet6060/intel-image-classification
-Classes: Buildings, Forest, Glacier, Mountain, Sea, Street
-Folders: Train, Test and Prediction
-Total Images: 24,000+
+Size : 363 MB <br>
+Link : https://www.kaggle.com/datasets/puneet6060/intel-image-classification <br>
+Classes: Buildings, Forest, Glacier, Mountain, Sea, Street <br>
+Folders: Train, Test and Prediction <br>
+Total Images: 24,000+ <br>
 
 ## About Models
 #### 1. Built From Scratch 
-Concolution Neural Network - IntelNet
+Convolution Neural Network - IntelNet
 
 #### 2. Comparitive Analysis
 1. Finetuned: MobileNet-V2
