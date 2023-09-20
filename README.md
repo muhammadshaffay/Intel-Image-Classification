@@ -1,5 +1,10 @@
+## Description
+In this project, I conducted a comprehensive comparison between a scratch CNN model and fine-tuned models, evaluating their performance on the Intel Image Classification dataset. These approaches were analyzed in terms of accuracy, training efficiency, and suitability for the task, providing valuable insights into model selection and optimization strategies.
+
 ## Commands
+```
 pip install -r requirements.txt
+```
 
 ## About Dataset 
 Size : 363 MBs <br>
